@@ -1,3 +1,5 @@
+# BASICS ON PYTHON
+
 x=5
 print(x)
 
@@ -46,14 +48,15 @@ a=["apples","managos","bananas"]
 # list must be ordered but not same as the set have all types of the data
 
 k=input("Enter a String:")
-# types of strings we have the even length and the other is the odd length
+# types of strings we have the even length and the other is the odd length the //means divide then return thr integer
 mid=len(k)//2
 
 # print(k[int(mid)]) but the below also the double slash is gonna be the same
 print(k[mid])
 # print(k[len(k)/2])
 
-# TYPE CONVERSION
+# TYPE CONVERSION IN PYTHON
+
 # implicity type conversion the python changes the type for our selves to avoid the erros
 x=2
 y=4.4
@@ -67,10 +70,41 @@ print(type(y))
 z=int(z)
 print(type(z))
 
-# FORMATTED STRINGS
+# FORMATTED STRINGS IN PYTHON
 
 p="john"
 m=4
 msg=p +" has "+  str(m) +" cars"
 print(msg)
-# keepgoing girl
+# you have to use f to print using what is in the curry braces
+print(f'''John 
+has {m} cars.''')
+
+# ARITHEMATIC OPERATIONS IN PYTHON
+
+# +,-,/,%,**,//
+num1=4
+num2=5
+# exponential sign to mean power sign
+print (num1*num2)
+
+# Precedence Operators in python
+# means if we got more than one operator then which one are we gonna perform first
+
+print(2+2*9-1)
+"""
+P: Parentheses ()
+B: Exponentiation **
+U: Unary operators +x, -x, ~x
+M: Multiplication, Division, Floor Division, Modulus *, /, //, %
+A: Addition and Subtraction +, -
+S: Bitwise Shifts <<, >>
+B: Bitwise AND &
+X: Bitwise XOR ^
+O: Bitwise OR |
+C: Comparisons ==, !=, <, <=, >, >=
+N: Logical NOT not
+A: Logical AND and
+R: Logical OR or
+
+"""
