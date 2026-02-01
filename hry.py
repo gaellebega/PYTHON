@@ -132,3 +132,33 @@ print(math.tau)
 print(math.degrees(3.14))
 # changing to radians from degrees
 print(math.radians(180))
+# CONDITIONAL STATEMENTS
+
+# if statement
+age = 3
+if age > 90:
+   print("you are so old")
+elif age == 10:
+   print ("you are some how young")
+else:
+   print("you are in the middle")
+      
+citizenship='Rwandan'   
+# country=input("hey enter you orgin")   
+if citizenship :
+   print("You can vote")
+else:
+   print("go in diaspora")   
+
+# Comparision operators
+l=9
+g=10
+if l==2 and g==10:
+  #  when the condition is true
+   print("this is the big false") 
+elif g != 1:
+   print("yeah value of g is not equal to 10 ")
+
+  #  LOOPS
+for a in range(6,8):
+     print(a)

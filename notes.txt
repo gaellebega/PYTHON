@@ -1,0 +1,64 @@
+Math Module
+
+1.REPRESENTATION
+math.pi()
+math.e()
+math.tau()
+
+2.BASIC MATHS
+math.pow()
+math.sqrt()
+math.ceil()
+math.floor()
+math.gcd()
+
+3.ANGLE CONVERSION
+math.degree()
+math.radians()
+
+4.TRIGONOMETRIC
+math.sin()
+math.cos()
+math.tan()
+
+5.LOGARITHMIC
+math.log()
+math.log10()
+
+difference between functions and the methods
+functions are for general use but the methods are also the functions but for spceifc module like those are  also defined inside the class
+
+module is the file that contain python code
+like import math, home.py
+
+function is a block of code to perform a specific task
+it has always to exist on its own
+.len and .sqrt are the functions inside the module
+
+object is a value created from the class
+
+Method is a function that belongs to an objectalways is called using the dot notation 
+example: "hello".upper()
+[1,2,3,4].append(2)
+
+CONDITIONAL STATEMENTS
+
+if statement
+if else statement
+if elif else statement  this is also same as else if
+Nested ladders
+
+COMPARISION OPERATORS
+they will return true or false when there is no other condition used
+equals
+not equals
+greater than or equals
+less thangreater than or equal to
+less than or equal
+
+
+LOGICAL OPERATORS
+
+AND: they become true when the all are true
+OR: become false when both are false
+Not s the opposite of the T when F and F when T
