@@ -162,3 +162,32 @@ elif g != 1:
   #  LOOPS
 for a in range(6,8):
      print(a)
+
+nums=[1,2,3,4,5]
+for i in nums:
+   print(i)
+
+v=5
+while  v < 10:
+   print("hi")
+   v = v+1  
+
+  #  the break when it is used then we have to  ignore everything that is below it
+
+zepa=6
+while zepa<4:
+  for i in range(zepa):
+     print(zepa)
+  break
+  zepa=zepa+1
+print ("we are done")
+
+for i in range (zepa):
+  #  to mean skip when you reach here
+  # also everyhting that is prited after will not be seen there
+   if i==4:
+      # when we have used something called pass it means when you reach to the situation matching with pass then act as nothing hapened like work normal
+      continue 
+   
+   else:
+      print(i)

@@ -62,3 +62,16 @@ LOGICAL OPERATORS
 AND: they become true when the all are true
 OR: become false when both are false
 Not s the opposite of the T when F and F when T
+
+we use the 
+for items in iterable 
+when we are using list, tuple, string or dictionary
+
+  we use for loop, while break ,contine  and pass
+  1. pass
+
+pass means: “do nothing”
+
+It’s just a placeholder
+
+Python sees it and moves on without skipping anything
