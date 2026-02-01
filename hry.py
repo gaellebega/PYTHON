@@ -108,3 +108,27 @@ A: Logical AND and
 R: Logical OR or
 
 """
+import math
+x=30.4
+print(round(x))
+
+# absolute value used to return the positive number
+x=-12.3
+print(abs(x))
+print(math.pi)
+print(math.sqrt(12))
+#goes up by rounding
+print(math.ceil(55.5))
+# goes down by rounding
+print(math.floor(1.23))
+print(math.factorial(6))
+print(math.gcd(1,3))
+print(math.sin(90))
+print(math.cos(0))
+print(math.e)
+# tau means pi x pi like 2pi
+print(math.tau)
+# angle conversion
+print(math.degrees(3.14))
+# changing to radians from degrees
+print(math.radians(180))
