@@ -191,3 +191,11 @@ for i in range (zepa):
    
    else:
       print(i)
+
+n = int(input("Enter any number:"))
+for k in range (n):
+   for j in range (1,n-k + 1):
+      # this is used when you want to end witht the space 
+      print(j, end=' ')
+   print() 
+
