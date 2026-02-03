@@ -75,3 +75,25 @@ pass means: “do nothing”
 It’s just a placeholder
 
 Python sees it and moves on without skipping anything
+
+lists allow us to store the heterogenous data types to means elemnts with different data types
+list allow us to apend means to add element to the end
+remove element or accessing element using the indexing
+
+in the list we have
+
+.2D Lists these are  list where the every element of the list is the list itself
+ex:[
+  [1,2,3],
+  [4,5,6],
+  [7,8,9],
+  [10,11,12]
+  ]
+.Range
+.Sets
+.Tuples
+
+
+
+
+we use the numpy when we are doing the heacy maths problems and also on large data set numpy is quick and hence it use the less memeory ai ml statistica data analysis  amatrices, vectore dot product transformations
