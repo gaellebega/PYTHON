@@ -97,3 +97,6 @@ ex:[
 
 
 we use the numpy when we are doing the heacy maths problems and also on large data set numpy is quick and hence it use the less memeory ai ml statistica data analysis  amatrices, vectore dot product transformations
+
+SETS
+these are elements which can not be changed  to mean all the elemnts of the sets have to be unique also are unorderd 

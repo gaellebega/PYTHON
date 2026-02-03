@@ -25,5 +25,6 @@ print(list[4][2])
 # range(2,4)
 # del list will remove my variable
 del list
+# we can also use in range 
 print(list(range(2,3)))
-
+#
