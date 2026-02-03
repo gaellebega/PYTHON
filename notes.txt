@@ -80,7 +80,7 @@ lists allow us to store the heterogenous data types to means elemnts with differ
 list allow us to apend means to add element to the end
 remove element or accessing element using the indexing
 
-in the list we have
+in the LIST we have
 
 .2D Lists these are  list where the every element of the list is the list itself
 ex:[
@@ -100,3 +100,24 @@ we use the numpy when we are doing the heacy maths problems and also on large da
 
 SETS
 these are elements which can not be changed  to mean all the elemnts of the sets have to be unique also are unorderd 
+to mean inn sets we can not change or access any value there you take it as it is
+to mean we can just add ,update or remove something
+
+
+in set you can add also add more than one element but only when we have used the 
+but the add also can add more than one element
+you can also use the update to change the set 
+you can also use the update to add some elements of one set to another like set1.update(set2)
+
+//what happens when we have some common elements in our both sets ?
+the set is not gonna make the repetititon then what it will do is gonna make it unique by writting those reperated eleemnt once
+
+TUPLE
+the way we write the Tuples
+1st: 1,2,3,4 no braces or anything just like that
+2nd:(1,2,3,4)
+
+is used as key in python dictionary to store values for 2D grid or graph
+when we need the funtion that return multiple results from a function
+use them to store records that should not change during the execution like databse row like user_id, username, and email
+also we can use them like when we want to swap variables without temporary one 
