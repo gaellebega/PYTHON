@@ -132,3 +132,12 @@ you can call it whatever you want *other,* remaining
 
 qucik thing python starts from the left so to mean that 
 if you dont wanna add something in the remining then go and put it at the first before the remining
+
+DICTIONARIES
+these are built in data structure that are used to store data which are unqiue but can be repeated,mutable and key value pairs items
+
+how to unpack the DICTIONARIES
+
+.assign variables with keys
+.assign variables with values
+.assign variables with key-value pairs
