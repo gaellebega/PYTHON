@@ -121,3 +121,6 @@ is used as key in python dictionary to store values for 2D grid or graph
 when we need the funtion that return multiple results from a function
 use them to store records that should not change during the execution like databse row like user_id, username, and email
 also we can use them like when we want to swap variables without temporary one 
+
+in the list when we want to add an element at the specific position we have to use
+insert(index,"sth we want to add")
