@@ -1,3 +1,5 @@
+python reads from the left to right
+
 Math Module
 
 1.REPRESENTATION
@@ -141,3 +143,22 @@ how to unpack the DICTIONARIES
 .assign variables with keys
 .assign variables with values
 .assign variables with key-value pairs
+
+FUNCTIONS
+allows us to encapslate (making something and have an access on it) the block of codes so that it can be called and excuted multiple times
+
+FUNCTIONS
+to define a function you have to use the def keyword 
+
+# variable to function definition this is called the parameter
+# the actual value that you pass to the function when you call it
+# local reference means  the local variable is nolonger have a value out of its scope
+
+the short rule on the parameters of the function is this 
+the default should start from the right to left to mean
+
+def function(a,b=4):
+  no likke this
+ def function(a=4,b):
+
+ Exception these refers to set or tones of errors that can happen during the execution of the program

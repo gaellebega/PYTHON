@@ -24,6 +24,8 @@ print(z.real)
 b = complex(1,2)
 print(b.imag)
 
+# STRING METHODS
+
 t="this is It"
 m="GOODMORNING"
 print(t.islower())
