@@ -162,3 +162,25 @@ def function(a,b=4):
  def function(a=4,b):
 
  Exception these refers to set or tones of errors that can happen during the execution of the program
+
+ instead of the whole program to crash we have to use the 
+try:
+  def quo(a,b):
+    return a/b
+
+  x=int(input(enter the first value:))  
+  y=int(input(enter the second value:))
+
+  print(quo(x,y))
+except ValueError:
+  print("Invalid input entered:)
+
+
+  COMMON ERRORS 
+  
+  ValueError:bad input
+  ZeroDivisionError:dividing by zero
+  TypeError:wrongType
+  IndexError:accessing the invalid Index
+  Key Error:accessing the missing key in a dist
+  FileNotFoundError: trying to open a file that doesntot exist
