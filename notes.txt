@@ -1,6 +1,20 @@
 python reads from the left to right
 
+variables can not be any of the python keywords 
+likeand, as ,a ssert, await, break,case, class,
+ continue,def,del,elif,else,except,finally
+for,import,is,lambda,match,None,not,or,
+pass,raise,return,true,try,while,yield
 Math Module
+
+grobal variables these are the varaibles belong 
+to the grobal scope
+
+a.CASTING
+ in casting we have to use these there
+ int()
+ float()
+ str()
 
 1.REPRESENTATION
 math.pi()

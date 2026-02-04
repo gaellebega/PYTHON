@@ -201,3 +201,14 @@ for k in range (n):
       print(j, end=' ')
    print() 
 
+string="HELLO WORRLD "
+print(string.lower())
+# to remove the spaces the white spaces we use the srtipe
+print(string.strip())
+print(string.rstrip())
+# to remove the middle space we have to use replace
+print(string.replace(" ",""))
+price=300;
+texts=f"the price is {price:.1f} dollars"
+print(texts)
+
