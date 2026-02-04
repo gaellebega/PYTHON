@@ -124,3 +124,11 @@ also we can use them like when we want to swap variables without temporary one
 
 in the list when we want to add an element at the specific position we have to use
 insert(index,"sth we want to add")
+
+UNPACKING LIST ELEMENTS
+means taking element by element in the collection of many elements like from list tuple dictionary or set
+* python use the sign to collect the remining variables
+you can call it whatever you want *other,* remaining
+
+qucik thing python starts from the left so to mean that 
+if you dont wanna add something in the remining then go and put it at the first before the remining

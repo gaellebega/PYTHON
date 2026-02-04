@@ -58,3 +58,6 @@ print(liste)
 # also when the duplicates exists its  going to remmove all of them
 liste.remove(1)
 print(liste)
+# clear removes all the element from the lsit or dictionary
+liste.clear()
+print(liste)
