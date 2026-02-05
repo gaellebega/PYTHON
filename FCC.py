@@ -6,4 +6,4 @@ test={
   "output":3
 }
 # **python will take the keys and the dictionaries
-locate_card(**test["input"])==test["output"]
+# locate_card(**test["input"])==test["output"]
