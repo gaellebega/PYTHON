@@ -1,5 +1,7 @@
 python reads from the left to right
 
+DSA are ways of organizing data and solving problems efficiently in programming
+
 variables can not be any of the python keywords 
 likeand, as ,a ssert, await, break,case, class,
  continue,def,del,elif,else,except,finally
