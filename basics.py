@@ -23,12 +23,12 @@ def solve_problem():
 print(solve_problem())
 
 
-greetings="Hello, World"
+greetings="Hella, Workd"
 print(greetings[2:5])
 # decrement
 print(greetings[5:2:-2])
-print(greetings[3:2])
-
+# print(greetings[3:2])
+print(greetings[4:-1:3])
 name="uwimana"
 age=12
 print(f"hello my name is {name} am {age} year old")

@@ -4,4 +4,4 @@ def find_palindrome(num):
   else:
      print(f"{num} is not palindrome")
   return num
-print(find_palindrome(404))
+find_palindrome(404)

@@ -2,6 +2,12 @@ python reads from the left to right
 
 DSA are ways of organizing data and solving problems efficiently in programming
 
+we have common_built in data types
+.Boolean
+.Integer(int)
+.Float(float)
+.String(str)
+
 variables can not be any of the python keywords 
 likeand, as ,a ssert, await, break,case, class,
  continue,def,del,elif,else,except,finally
@@ -111,7 +117,8 @@ ex:[
 .Sets
 .Tuples
 
-
+append is only used on the lists [] but add means adding unique value is used on set{}
+but both can be used on the tuple and also on the  strings
 
 
 we use the numpy when we are doing the heacy maths problems and also on large data set numpy is quick and hence it use the less memeory ai ml statistica data analysis  amatrices, vectore dot product transformations
