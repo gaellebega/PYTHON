@@ -207,3 +207,8 @@ except ValueError:
   IndexError:accessing the invalid Index
   Key Error:accessing the missing key in a dist
   FileNotFoundError: trying to open a file that doesntot exist
+
+
+  when we have used passing the values to  the function and call them then we are not gonna 
+  use return 
+  we only use the return if and only if we called the function but havenot passed the values inside the function
