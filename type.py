@@ -17,4 +17,32 @@ print(ispresent)
 
 
 # SORTING
+# inline cz it doesnt return the new array but it use what it already have
+# inplace changing the position without creating the new list so we will not need the retun or the print and the function of sort inside
+nums=[0,-1,2,-5]
+nums.sort()
+print(nums)
+sorted_items=sorted(nums,reverse=True)
+print(sorted_items)
+
+# we can use the lamda 
+grades=[[4,10],[2,9],[3,8]]
+sorted_grade=sorted(grades,key=lambda i:i[-1],reverse=True)
+print(sorted_grade)
+sorted_grade=sorted(grades,key=lambda i:i[1])
+print(sorted_grade)
+# this will we the sorting of the id 
+sorted_grade=sorted(grades,key=lambda i:i[0])
+print(sorted_grade)
+
+num1=[4,5,2,6,0]
+num2=[5,6,0,8]
+# append is gonna add on one element to the list but the list its gonna take all the list and make them one
+print(num1+num2)
+num1.extend(num2)
+print(num1)
+
+# insert take the index and the value
+
+# traverising lists
 
