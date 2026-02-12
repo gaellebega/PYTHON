@@ -30,3 +30,6 @@ numz=[1,2,3,4.5]
 numz.copy()
 print(numz.copy())
 print(numz)
+
+result=[x*2 for x in numz]
+print(result)
