@@ -1,3 +1,5 @@
+# ordered and changable duplicates are okay
+
 fruits=["apple","orange","banana","coconut"]
 # when you want to step but also including the first elemnt at the index 0 you wany need to use the
 print(fruits[::2])
