@@ -1,0 +1,10 @@
+IDE is a code editor with some features like auto completion like also debugging and also testing
+
+most common code editors
+vscode, atom,sublime
+
+most popular IDES
+pycharm
+
+instructions we get themm from the top to the buttom in order
+
