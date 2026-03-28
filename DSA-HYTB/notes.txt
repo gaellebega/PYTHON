@@ -1,10 +1,37 @@
 IDE is a code editor with some features like auto completion like also debugging and also testing
 
 most common code editors
-vscode, atom,sublime
-
+vscode, atom,subl
 most popular IDES
 pycharm
 
 instructions we get themm from the top to the buttom in order
+
+HOW TO CONVERT VS CODE IN THE POWERFUL EXTENSION CALLED PYTHON
+
+
+1.LINTING 
+means analysing yomur python codes to find the errors
+2.AUTOCOMPLETION: suggestion of the codes depending on ones that you have 
+3.CODE FORMATING:making our codes cleana and readable
+4.UNIT TESTING:making the testcases for our codes
+5.CODE SNIPPETS: reusable quick codes that mmwe can 
+6.DEBUGGING: means tryig to fix errors found in our codes
+
+shift+ctrl+p for all the commands that we need they come with the python
+pylint default linter set in python using the vs codes more eerrors are more meaningful
+
+peps is the new feature improvemenets or guidelines for the python it explain wgy the change
+is needed how it should work and any rules or standards related to it
+
+styled guide for python code most common and well known 
+
+
+
+BOOLEAN
+the booleans they are the numbers stirng for     ml
+
+
+
+
 
