@@ -222,3 +222,6 @@ And this works for:
 
 spaces
 specific characters
+
+split method is used to make the whole string into the substring used a given character
+when we have used the split without being specific to the character we want to remove then its gonna split itself basing on the whitespaces
