@@ -212,3 +212,13 @@ except ValueError:
   when we have used passing the values to  the function and call them then we are not gonna 
   use return 
   we only use the return if and only if we called the function but havenot passed the values inside the function
+
+
+If you want to remove from both sides → use strip()
+If you want to remove from left only → use lstrip()
+If you want to remove from right only → use rstrip()
+
+And this works for:
+
+spaces
+specific characters

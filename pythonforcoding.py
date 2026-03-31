@@ -8,3 +8,8 @@ n,m,z=0.1,"abc",False
 n+=1
 n=n+1
 # absense of value it is called none instead of the null in js
+# to avaoid the syntax error we have to use the paranthesis
+
+
+if ((n>2)and((n!=m)or(n==m))):
+  print(True)
