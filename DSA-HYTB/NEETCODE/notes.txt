@@ -26,7 +26,7 @@ is needed how it should work and any rules or standards related to it
 
 styled guide for python code most common and well known 
 
-
+python variables are dynamically typed  to mean we dont have to decalre its type beofre we use  them
 
 BOOLEAN
 the booleans they are the numbers stirng for     ml
