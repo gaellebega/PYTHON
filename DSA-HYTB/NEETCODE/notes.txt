@@ -13,9 +13,9 @@ HOW TO CONVERT VS CODE IN THE POWERFUL EXTENSION CALLED PYTHON
 
 
 1.LINTING 
-means analysing yomur python codes to find the errors
+this means analysing yomur python codes to find the errors kinda same as debugging
 2.AUTOCOMPLETION: suggestion of the codes depending on ones that you have 
-3.CODE FORMATING:making our codes cleana and readable
+3.CODE FORMATING:making our codes clean and readable
 4.UNIT TESTING:making the testcases for our codes
 5.CODE SNIPPETS: reusable quick codes that mmwe can 
 6.DEBUGGING: means tryig to fix errors found in our codes
