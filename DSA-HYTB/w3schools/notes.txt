@@ -1,1 +1,6 @@
 when the variable is created timside the function then it is the local variable to mean it can not be accessed out of the function
+dictionary{}
+tuple()
+frozenset{()}
+when you want to know the type of variable you do something like this print(type(x))
+to write the multiline strings we have to use """ and """
