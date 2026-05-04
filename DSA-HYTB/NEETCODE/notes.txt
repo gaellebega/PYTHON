@@ -1,3 +1,5 @@
+Everything I am learning rom neetcode and from other youtube resources
+
 IDE is a code editor with some features like auto completion like also debugging and also testing
 
 most common code editors
