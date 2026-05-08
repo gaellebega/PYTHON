@@ -4,3 +4,12 @@ tuple()
 frozenset{()}
 when you want to know the type of variable you do something like this print(type(x))
 to write the multiline strings we have to use """ and """
+
+BOOLEAN VALUES
+
+this values which have content inside them then they are the boolean TRUE
+ex: bool("hello")
+    bool(15)
+
+
+    FALSE VALUES ARE 0,false,None,"",(),[],{}
