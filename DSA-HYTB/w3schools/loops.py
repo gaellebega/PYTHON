@@ -14,3 +14,5 @@ for x in thislist:
   for i in range(len(thislist)):
     # this will print the values at those indexes
     print(thislist[i]) 
+# list comprehension in use
+  [print(thislist[x]) for x in range(len(thislist))]  
