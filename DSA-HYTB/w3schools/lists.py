@@ -9,3 +9,5 @@ print(thislist)
 # when you want to add the other liek the sets the dictionary on the list then youw ill gonna need ti use the extend method
 
 newlist=["","","",""]
+
+# to remove all the elements from the list we use clear
