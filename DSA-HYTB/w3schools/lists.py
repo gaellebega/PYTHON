@@ -23,3 +23,8 @@ del newliste[1]
 # when you want the existinf of the list but it being the empty then you are gonna need to use the clear method
 newliste.clear()
 print(newliste)
+
+# to sort the list we can use .sort method
+new=["uwimana","mukamana","angelique"]
+new.sort()
+print(new)
