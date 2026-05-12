@@ -27,4 +27,5 @@ print(newliste)
 # to sort the list we can use .sort method
 new=["uwimana","mukamana","angelique"]
 new.sort()
+# solution
 print(new)
