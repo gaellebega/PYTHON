@@ -29,3 +29,8 @@ new=["uwimana","mukamana","angelique"]
 new.sort()
 # solution
 print(new)
+
+# list comprehension
+fruit=["apple","banana","cherry","kiwi","mango"]
+newlist=[x for x in fruit if "a" in x]
+print(newlist)
