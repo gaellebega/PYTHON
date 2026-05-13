@@ -34,7 +34,7 @@ print(new)
 fruit=["apple","banana","cherry","kiwi","mango"]
 newlist=[x for x in fruit if "a" in x]
 print(newlist)
-
+# this can be used to sort inthe descending order
 fruit.sort(reverse=True)
 # when we want to make the copy of the existing list then we are going to use to copy method
 # you can also use the list( method)
