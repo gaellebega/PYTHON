@@ -36,3 +36,11 @@ newlist=[x for x in fruit if "a" in x]
 print(newlist)
 
 fruit.sort(reverse=True)
+# when we want to make the copy of the existing list then we are going to use to copy method
+# you can also use the list( method)
+# this is gonna create the same list as the existing one
+mynewlist=list(fruit)
+print(mynewlist)
+# you can also use the slice method to make the copy of the list
+myanotherlist=fruit[:]
+print(myanotherlist)
