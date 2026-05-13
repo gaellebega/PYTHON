@@ -13,3 +13,5 @@ ex: bool("hello")
 
 
     FALSE VALUES ARE 0,false,None,"",(),[],{}
+
+ PYTHON COLLECTIONS(ARRAYS)   
