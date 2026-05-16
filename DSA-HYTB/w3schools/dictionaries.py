@@ -17,3 +17,10 @@ x2=thisisdict["year"]
 print(x2)
 x=thisisdict.get("year")
 print(x)
+# to get the key elements
+x3=thisisdict.keys()
+x4=thisisdict.values()
+x5=thisisdict.items()
+print(x3)
+print(x4)
+print(x5)
