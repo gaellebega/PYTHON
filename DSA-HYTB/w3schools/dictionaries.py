@@ -7,4 +7,7 @@ print(thisisdict)
 #the dupllicates are not allowed
 # they are unordered
 # the len function is also allowed to the dictionaries
-# weare back
+# we are back
+# after creating a dictionary varlue can not be changed
+# 
+# two keys can not have the same name
