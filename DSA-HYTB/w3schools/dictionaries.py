@@ -11,3 +11,9 @@ print(thisisdict)
 # after creating a dictionary varlue can not be changed
 # 
 # two keys can not have the same name
+# to access the values we may use this
+# get
+x2=thisisdict["year"]
+print(x2)
+x=thisisdict.get("year")
+print(x)
