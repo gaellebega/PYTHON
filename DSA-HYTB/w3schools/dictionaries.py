@@ -24,3 +24,12 @@ x5=thisisdict.items()
 print(x3)
 print(x4)
 print(x5)
+
+# we use the update when we want to change botht he value and key
+thinewdict={
+  "name":"igb",
+  "age":"nineeteen",
+  "location":120
+}
+thinewdict.update({"name":2020})
+print(thinewdict)
