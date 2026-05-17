@@ -31,5 +31,17 @@ thinewdict={
   "age":"nineeteen",
   "location":120
 }
+# the update  can be used to add new item or change the exist values
+thinewdict.update({"nameq":"sandrine"})
 thinewdict.update({"name":2020})
+
 print(thinewdict)
+
+# we use the pop method when we want to remove the leemnt at the specific key name
+thisdel={
+  "brand": "Ford",
+  "model": "Mustang",
+  "year": 1964
+}
+thisdel.pop("model")
+print(thisdel)
