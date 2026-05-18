@@ -45,3 +45,11 @@ thisdel={
 }
 thisdel.pop("model")
 print(thisdel)
+
+# the popitem is used to remove the last inserted item
+
+thisdel.popitem()
+print(thisdel)
+# the del will be used to delete the complete dictionary
+# also the clear is used to make the dictionary empty
+# learning along the way
