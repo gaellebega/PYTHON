@@ -72,3 +72,6 @@ my_fam={
 "district":"karongi"
   }
 }
+# to access the values of the nested dicitionary
+print(my_fam["hisparents"]["date"])
+print(my_fam)
