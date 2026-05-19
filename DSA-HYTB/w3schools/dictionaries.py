@@ -53,3 +53,22 @@ print(thisdel)
 # the del will be used to delete the complete dictionary
 # also the clear is used to make the dictionary empty
 # learning along the way
+
+# loop through dictionary
+# in py we have the nested dictionaries
+
+my_fam={
+  "myparents":{
+"names":"uwimana",
+"secondname":"marie"
+  },
+  "theirparents":{
+"name":"john",
+"location":"kigali"
+
+  },
+  "hisparents":{
+"date":"12",
+"district":"karongi"
+  }
+}
