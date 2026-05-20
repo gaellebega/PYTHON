@@ -4,3 +4,6 @@ if age>20:
   print("You are allowed to be married")
   print("you are allowed to drink")
   print("you are allowed to live alone")
+elif age<20:
+  print("you are not allowed to drink")
+  print("you are not allowed to live alone")
