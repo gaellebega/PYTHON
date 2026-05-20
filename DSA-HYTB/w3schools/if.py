@@ -7,3 +7,8 @@ if age>20:
 elif age<20:
   print("you are not allowed to drink")
   print("you are not allowed to live alone")
+
+  # short handen if statement
+  x=4
+  y=9
+  if x>y: print("a is greater than b")
