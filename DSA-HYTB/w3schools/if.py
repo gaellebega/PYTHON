@@ -15,3 +15,9 @@ elif age<20:
 
   # pass statement role instead of if
   # mainly the if statement can not be empty but with use of the pass you can when like in yur if condition you dont wanna addd anything init
+  m=400
+  n=500
+  if m>n:
+    pass
+
+  # pass means is null operation nothing  when it executes it serverses as the placeholder
