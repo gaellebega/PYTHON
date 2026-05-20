@@ -12,3 +12,6 @@ elif age<20:
   x=4
   y=9
   if x>y: print("a is greater than b")
+
+  # pass statement role instead of if
+  # mainly the if statement can not be empty but with use of the pass you can when like in yur if condition you dont wanna addd anything init
