@@ -12,3 +12,11 @@ while i<2:
       break
     i+=1
 print("this is it")
+
+# the continue statement
+i=8
+while  i<6:
+  i+=1
+  if i==2:
+    continue
+  print(i)
