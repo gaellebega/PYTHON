@@ -20,3 +20,12 @@ while  i<6:
   if i==2:
     continue
   print(i)
+
+  # you can also use the while with the else
+
+  a=1
+  while a<3:
+    print(a)
+    a+=1
+  else:
+    print("a is no longer less than 6")
