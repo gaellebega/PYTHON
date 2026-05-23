@@ -24,6 +24,7 @@ while  i<6:
   # you can also use the while with the else
 
   a=1
+  # when we are using the while loop better not use the brackets
   while a<3:
     print(a)
     a+=1
