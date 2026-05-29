@@ -50,4 +50,4 @@ Questiona to be done
 trailing zero medium leetcode problem
 .counting how many zeros at the end
 .if there is none then you return 0
-
+leaning by doing
