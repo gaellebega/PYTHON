@@ -45,4 +45,9 @@ the booleans they are the numbers stirng for     ml
 8. Recursion II
 
 
+Questiona to be done
+
+trailing zero medium leetcode problem
+.counting how many zeros at the end
+.if there is none then you return 0
 
