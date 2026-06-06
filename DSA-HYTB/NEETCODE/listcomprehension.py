@@ -7,5 +7,5 @@ print(new)
 squares=[x*x for x in nums] 
 print(squares) 
 
-arr=[i for i in range(5)]
+arr=[[0]*4 for i in range(5)]
 print(arr)
