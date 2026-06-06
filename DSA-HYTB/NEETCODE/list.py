@@ -11,3 +11,4 @@ arr.insert(1,7)
 # to insert in the middle we can write it like this
 nums=[1,2,3,4]
 nums.insert  (len(nums)//2,10)
+# the append of element it is amoterised
