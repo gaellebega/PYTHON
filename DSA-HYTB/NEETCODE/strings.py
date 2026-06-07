@@ -12,5 +12,8 @@ print(s)
 print(int("123")+int("345"))
 # this because it is the texts
 # by adding the stings to the string then there is no change except the space removal
+# add integers together we get the integer as the result 
+# adding the stings together we append the string to the other string
 print(str("hy")+str("hello"))
 print(str(123)+str(456))
+print(int(13)+int(12))
